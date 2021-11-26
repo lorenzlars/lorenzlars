@@ -30,11 +30,11 @@
     <h3 align="center"> Languages and Tools</h3>
 </p>
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank">
+    <a href="https://www.w3.org/html" target="_blank">
         <img src="icons/html-5.svg" width="40" height="40"/>
     </a>
     &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
+    <a href="https://www.w3schools.com/css" target="_blank">
         <img src="icons/css-3.svg" width="40" height="40"/>
     </a>
     &nbsp;
