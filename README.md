@@ -13,7 +13,7 @@
     </a>
 </p>
 <br />
-<h3 align="center">A passionate software developer from Germany 🇩🇪</h3>
+<h3 align="center">A passionate full-stack software developer from Germany 🇩🇪</h3>
 <br />
 
 - 🌱 I’m currently learning **Vue 3, TypeScript, JavaScript, Kubernetes, Docker**
@@ -42,8 +42,16 @@
         <img src="icons/javascript.svg" width="40" height="40"/>
     </a>
     &nbsp;
+    <a href="https://www.typescriptlang.org" target="_blank">
+        <img src="icons/typescript.svg" width="40" height="40"/>
+    </a>
+    &nbsp;
     <a href="https://v3.vuejs.org" target="_blank">
         <img src="icons/vue.svg" width="40" height="40"/>
+    </a>
+    &nbsp;
+    <a href="https://www.docker.com" target="_blank">
+        <img src="icons/docker.svg" width="40" height="40"/>
     </a>
     &nbsp;
     <a href="https://code.visualstudio.com" target="_blank">
