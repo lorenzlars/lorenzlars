@@ -1,15 +1,9 @@
-<style>
-    p a {
-        margin-left: 0.6rem;
-    }
-</style>
-
 <h1 align="center">Hi 👋, I'm Lars Lorenz</h1>
 <p align="center">
-    <a href="https://open.spotify.com/user/lorenz91-de">
+    <a href="https://open.spotify.com/user/lorenz91-de" style="margin-right: 0.6rem;">
         <img src="https://img.shields.io/badge/Spotify-1CD660&?logo=spotify&style=for-the-badge&logoColor=white" />
     </a>
-    <a href="https://larslorenz.dev">
+    <a href="https://larslorenz.dev" style="margin-right: 0.6rem;">
         <img src="https://img.shields.io/badge/Portfolio-AA00FF?style=for-the-badge&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/lars-lorenz-002253185">
@@ -34,19 +28,19 @@
     <h3 align="center"> Languages and Tools</h3>
 </p>
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank">
+    <a href="https://www.w3.org/html/" target="_blank" style="margin-right: 0.6rem;">
         <img src="icons/html-5.svg" width="40" height="40"/>
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
+    <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 0.6rem;">
         <img src="icons/css-3.svg" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 0.6rem;">
         <img src="icons/javascript.svg" width="40" height="40"/>
     </a>
-    <a href="https://v3.vuejs.org" target="_blank">
+    <a href="https://v3.vuejs.org" target="_blank" style="margin-right: 0.6rem;">
         <img src="icons/vue.svg" width="40" height="40"/>
     </a>
-    <a href="https://code.visualstudio.com" target="_blank">
+    <a href="https://code.visualstudio.com" target="_blank" style="margin-right: 0.6rem;">
         <img src="icons/visual-studio-code.svg" width="40" height="40" />
     </a>
     <a href="https://github.com" target="_blank">
