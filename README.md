@@ -16,7 +16,7 @@
 <h3 align="center">A passionate full-stack software developer from Germany 🇩🇪</h3>
 <br />
 
-- 🌱 I’m currently learning **Vue 3, TypeScript, JavaScript, Kubernetes, Docker**
+- 🌱 I’m currently learning **Kubernetes, Docker, Architecture, Clean Code**
 - 👨‍💻 More about me at [https://larslorenz.dev](https://larslorenz.dev)
 - 💬 Ask me about **Vue 3, TypeScript, JavaScript**
 - 📫 How to reach me: **mail@larslorenz.dev**
