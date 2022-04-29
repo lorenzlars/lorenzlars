@@ -11,6 +11,10 @@
     <a href="https://www.linkedin.com/in/lars-lorenz-002253185">
         <img src="https://img.shields.io/badge/LinkedIn-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    &nbsp;
+    <a href="https://codepen.io/larslorenz">
+        <img src="https://img.shields.io/badge/CodePen-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </p>
 <br />
 <h3 align="center">A passionate full-stack software developer from Germany 🇩🇪</h3>
