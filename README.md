@@ -13,7 +13,7 @@
     </a>
     &nbsp;
     <a href="https://codepen.io/larslorenz">
-        <img src="https://img.shields.io/badge/CodePen-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/CodePen-1E1F26?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
 <br />
