@@ -4,10 +4,6 @@
         <img src="https://img.shields.io/badge/Spotify-1CD660&?logo=spotify&style=for-the-badge&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://larslorenz.dev">
-        <img src="https://img.shields.io/badge/Portfolio-AA00FF?style=for-the-badge&logoColor=white" />
-    </a>
-    &nbsp;
     <a href="https://www.linkedin.com/in/lars-lorenz-002253185">
         <img src="https://img.shields.io/badge/LinkedIn-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
