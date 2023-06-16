@@ -11,18 +11,12 @@
     <a href="https://codepen.io/larslorenz">
         <img src="https://img.shields.io/badge/CodePen-1E1F26?style=for-the-badge&logo=codepen&logoColor=white" />
     </a>
-    &nbsp;
-    <a href="https://www.upwork.com/freelancers/~0159552784f05c3f48">
-        <img src="https://img.shields.io/badge/upwork-17A700?style=for-the-badge&logo=upwork&logoColor=white" />
-    </a>
 </p>
 <br />
-<h3 align="center">A passionate frontend software developer from Germany 🇩🇪</h3>
+<h3 align="center">A passionate software developer from Germany 🇩🇪</h3>
 <br />
 
-- 🌱 I’m currently learning **Kubernetes, Terraform**
 - 👨‍💻 More about me at [https://larslorenz.dev](https://larslorenz.dev)
-- 💬 Ask me about **Vue 3, TypeScript, JavaScript**
 - 📫 How to reach me: **mail@larslorenz.dev**
 
 <br />
