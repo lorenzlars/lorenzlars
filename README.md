@@ -24,50 +24,6 @@
 ---
 
 <br />
-<p>
-    <h3 align="center"> Languages and Tools</h3>
-</p>
-<p align="center">
-    <a href="https://www.w3.org/html" target="_blank">
-        <img src="icons/html-5.svg" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.w3schools.com/css" target="_blank">
-        <img src="icons/css-3.svg" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="icons/javascript.svg" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.typescriptlang.org" target="_blank">
-        <img src="icons/typescript.svg" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://v3.vuejs.org" target="_blank">
-        <img src="icons/vue.svg" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.docker.com" target="_blank">
-        <img src="icons/docker.svg" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://code.visualstudio.com" target="_blank">
-        <img src="icons/visual-studio-code.svg" width="40" height="40" />
-    </a>
-    &nbsp;
-    <a href="https://github.com" target="_blank">
-        <img src="icons/github.svg" width="40" height="40" />
-    </a>
-</p>
-<br />
-
----
-
-<br />
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lorenzlars&theme=gruvbox&show_icons=true" width="500"/>
-    <br />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzlars&layout=compact&theme=gruvbox" width="500" />
 </p>
