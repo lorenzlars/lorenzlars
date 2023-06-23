@@ -43,6 +43,7 @@ I am a passionate software developer from Germany 🇩🇪 loving problem-solvin
 <h3>Just for fun</h3>
 
 ![Swift](https://img.shields.io/badge/Swift-FBA83F?style=for-the-badge&logo=swift&logoColor=000000)
+![Swift](https://img.shields.io/badge/Netlify-03BDBA?style=for-the-badge&logo=netlify&logoColor=FFFFFF)
 ![WIP](https://img.shields.io/badge/WIP...-000000?style=for-the-badge&logoColor=FFFFFF)
 
 
