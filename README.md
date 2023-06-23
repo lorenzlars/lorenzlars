@@ -26,16 +26,25 @@ I am a passionate software developer from Germany 🇩🇪 loving problem-solvin
 
 <h2>Tech</h2>
 
+<h3>Daily usage</h3>
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-349369?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+
+<h3>Just for fun</h3>
+
+![Swift](https://img.shields.io/badge/Swift-FBA83F?style=for-the-badge&logo=swift&logoColor=000000)
+![WIP](https://img.shields.io/badge/WIP...-000000?style=for-the-badge&logoColor=FFFFFF)
+
 
 <h2>Details</h2>
 
