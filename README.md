@@ -53,7 +53,7 @@ I am a passionate software developer from Germany 🇩🇪 loving problem-solvin
   <summary>🏠<b> Smart Home</b></summary>
   	<ul>
   	    <li><b>Software:</b> Home Assistant, ESPHome, Grafana, Zigbee2MQTT, Mosquitto broker</li>
-        <li><b>Hardware:</b> RPi 4 8 GB with Geekworm X825 V2, Synology DS723+ 32GB 4TB</li>
+        <li><b>Hardware:</b> RPi 4 8 GB with Geekworm X825 V2, Synology DS723+ 32GB 6TB</li>
 	</ul>
 </details>
 
@@ -62,7 +62,7 @@ I am a passionate software developer from Germany 🇩🇪 loving problem-solvin
   	<ul>
   	    <li><b>Apple Nerd:</b> Apple M2 Pro 32GB 1TB, MacBook Air M1 16GB 512GB, iPhone 13 128GB, iPad Pro M1 128GB, Apple Watch 8, Apple TV 4K 128GB</li>
 	    <li><b>Tools:</b> Things 3, Fantastical, Craft, QuitAll, AirBuddy, Browserosaurios, CleanShot</li>
-  	    <li><b>Development:</b> WebStorm, iTerm</li>
-	    <li><b>To Stay Updated:</b> Reeder 5, Pocket</li>
+  	    <li><b>Development:</b> WebStorm, VS Code, iTerm</li>
+	    <li><b>To Stay Updated:</b> lire, FeedBin, Instapaper</li>
 	</ul>
 </details>
