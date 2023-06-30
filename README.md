@@ -22,7 +22,7 @@ I am a passionate software developer from Germany 🇩🇪 loving problem-solvin
 
 - 👨‍💻 More about me at [https://larslorenz.dev](https://larslorenz.dev)
 - 📫 How to reach me: **mail@larslorenz.dev**
-- 🤩 Other interests: Smart Home, 3D Printing
+- 🤩 Other interests: Smart Home, 3D Printing, Electronics
 
 <h2>Tech</h2>
 
