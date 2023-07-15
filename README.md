@@ -16,6 +16,10 @@
     <a href="https://stackblitz.com/@lorenzlars">
         <img src="https://img.shields.io/badge/StackBlitz-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white" />
     </a>
+    &nbsp;
+    <a href="https://than.gs/u/1065297">
+        <img src="https://img.shields.io/badge/Thangs-FFBC00?style=for-the-badge&logo=blueprint&logoColor=black" />
+    </a>
 </p>
 
 <p>
