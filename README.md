@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Lars Lorenz</h1>
 
 <p align="center">
-    <a href="https://open.spotify.com/user/lorenz91-de">
+    <a href="https://open.spotify.com/user/lorenz91-de" target="_blank">
         <img src="https://img.shields.io/badge/Spotify-1CD660&?logo=spotify&style=for-the-badge&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/lars-lorenz-002253185">
+    <a href="https://www.linkedin.com/in/lars-lorenz-002253185" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://codepen.io/larslorenz">
+    <a href="https://codepen.io/larslorenz" target="_blank">
         <img src="https://img.shields.io/badge/CodePen-1E1F26?style=for-the-badge&logo=codepen&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://stackblitz.com/@lorenzlars">
+    <a href="https://stackblitz.com/@lorenzlars" target="_blank">
         <img src="https://img.shields.io/badge/StackBlitz-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://than.gs/u/1065297">
+    <a href="https://than.gs/u/1065297" target="_blank">
         <img src="https://img.shields.io/badge/Thangs-FFBC00?style=for-the-badge&logo=blueprint&logoColor=black" />
     </a>
 </p>
