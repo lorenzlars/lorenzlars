@@ -18,7 +18,7 @@
     </a>
     &nbsp;
     <a href="https://than.gs/u/1065297" target="_blank">
-        <img src="https://img.shields.io/badge/Thangs-FFBC00?style=for-the-badge&logo=blueprint&logoColor=black" />
+        <img src="https://img.shields.io/badge/Thangs-FFBC00?style=for-the-badge&logo=thangs&logoColor=black" />
     </a>
 </p>
 
