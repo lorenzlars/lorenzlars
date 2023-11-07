@@ -60,7 +60,7 @@ I am a passionate software developer from Germany 🇩🇪 loving problem-solvin
   <summary>🏠<b> Smart Home</b></summary>
   	<ul>
       <li><b>Software:</b> Home Assistant, ESPHome, Grafana, Mosquitto broker</li>
-      <li><b>Hardware:</b> Home Assistant SkyConnect, RPi 4 8 GB with Geekworm X825 V2, Synology DS723+ 32GB 6TB</li>
+      <li><b>Hardware:</b> Home Assistant SkyConnect, RPi 4 8 GB with Geekworm X825 V2 128GB SSD, Synology DS723+ 32GB 6TB</li>
 	</ul>
 </details>
 
