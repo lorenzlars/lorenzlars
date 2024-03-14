@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lars Lorenz</h1>
 
 <p align="center">
-    <a href="https://open.spotify.com/user/lorenz91-de" target="_blank">
+    <a href="https://open.spotify.com/user/31hdrhajv7vw46p4jv3dddern2a4?si=e6322f49af0e4050" target="_blank">
         <img src="https://img.shields.io/badge/Spotify-1CD660&?logo=spotify&style=for-the-badge&logoColor=white" />
     </a>
     &nbsp;
